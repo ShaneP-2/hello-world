@@ -1,0 +1,7 @@
+System.out.print(“Hello”);
+System.out.print(“ “);
+System.out.print(“Timberline!”);
+System.out.println();
+System.out.print(“JAVA”);
+System.out.println(“is”);
+System.out.print(“awesome!”);
